@@ -1,0 +1,10 @@
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.listContainer li {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
